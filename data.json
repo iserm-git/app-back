@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Alumno": 9
+  },
+  "models": {
+    "Alumno": {
+      "1": "{\"noControl\":\"M00000001\",\"nombre\":\"ALVAREZ FLORES JESÚS MANUEL\",\"cveCarrera\":50,\"id\":1}",
+      "2": "{\"noControl\":\"M00000002\",\"nombre\":\"CASTAÑEDA VEGA GERARDO\",\"cveCarrera\":50,\"id\":2}",
+      "3": "{\"noControl\":\"M00000003\",\"nombre\":\"CASTELLANOS FLORES HECTOR GERARDO\",\"cveCarrera\":50,\"id\":3}",
+      "4": "{\"noControl\":\"M00000004\",\"nombre\":\"DUARTE GARCÍA ROSA MARÍA\",\"cveCarrera\":50,\"id\":4}"
+    }
+  }
+}
